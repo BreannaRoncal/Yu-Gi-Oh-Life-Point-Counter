@@ -1,0 +1,29 @@
+
+body
+ {
+    background-color: purple
+}
+
+#p1{
+    font-size: 40px;
+    height: 600px;
+    width: 450px;
+    margin: 50px 100px;
+    padding: 20px;
+    background-color: yellow;
+    border-style: double;
+    border-color: aliceblue;
+    float: left;
+}
+
+#p2{
+    font-size: 40px;
+    height: 600px;
+    width: 450px;
+    margin: 50px 100px;
+    padding: 20px;
+    background-color: yellow;
+    border-style: double;
+    border-color: aliceblue;
+    float: right;
+}
